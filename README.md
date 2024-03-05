@@ -11,4 +11,5 @@ since some components couldn't be found.
 For this project I used altium and the extension Altium Library Loader.
 
 ### Note: 
-Try opening the 3D viewer in your phone, it is implemented with Augmented Reality so you can see it in your space wherever you want and change it's size.
+1) Try opening the 3D viewer in your phone, it is implemented with Augmented Reality so you can see it in your space wherever you want and change it's size.
+2) The PCB_PDF3D.PDF is a 3D pdf and doesn't work everywhere, i used Adobe Acrobat to open it. 
